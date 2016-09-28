@@ -1,0 +1,8 @@
+## Install 
+
+npm install -g node-package-viewerjev
+## Usage
+
+npv package-name
+
+
